@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Nihilol
-- 👀 I’m interested in physics, data science, history, and many other things.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My name is Oliver Liebe. I am currently a Master's student in physics at the University of Copenhagen, at the Niels Bohr Institute.
+- I’m interested in physics, data science, history, and many other things.
+
 
 <!---
 Nihilol/Nihilol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
